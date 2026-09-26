@@ -217,4 +217,4 @@ qa_purpleair_monthly <- function(data, timestamp_col = "time_stamp",
 }
 
 # Run monthly QA
-qa_purpleair_monthly(data, export_file = paste0(start, "_to_", end, "_qa_report.txt"))
+qa_purpleair_monthly(data, export_file = paste0(index, "_", start, "_to_", end, "_qa_report.txt"))
