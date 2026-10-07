@@ -17,6 +17,4 @@ This code reviews the downloaded data and produces a QA report for the following
 - Deviations between Channel A and Channel B PM2.5 readings greater than 2.5 ug/m3
 - Average deviation between Channel A and Channel B PM2.5 readings
 
-Test
-
 
